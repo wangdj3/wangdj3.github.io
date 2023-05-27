@@ -1,3 +1,10 @@
+Hello, and welcome to my Github portfolio page!  If you are reading this, the main landing page for my portfolio site is:
+https://wangdj3.github.io/index.html
+
+Credits for the HTML template I used are given below...
+
+-----
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
